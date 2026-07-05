@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/iamKernelK/Player-number-/refs/heads/main/MorphUp
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iamKernelK/Player-number-/refs/heads/main/MorphUp"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iamKernelK/Player-number-/refs/heads/main/Player"))()
